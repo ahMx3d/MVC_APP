@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    background-color: #ececec;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav .container div .nav-info li a{
+    padding: 7px;
+    /* margin: 0 5px; */
+}
+.reg-box,
+.log-box {
+    border: 1px solid #d2d2d2;
+    border-radius: 7px;
+}
+
+.reg-box form a,
+.log-box form a{
+    margin-left: 7px;
+}
