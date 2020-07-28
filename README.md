@@ -1,4 +1,4 @@
 # MVC_APP
-This app is an implementation for the idea of **MVC** just with ***registeration & login pages***.
+This app is an implementation for the concept of **MVC** just with ***registeration & login pages***.
 It's been implemented using **HTML, Bootstrap for the front-end and PHP, and MySQL the back-end**.
 There are **.htaccess** files that have **indexes** to ***prevent any access to the application folders*** except through (http://localhost/phpdev/mvc/public) which adds some how kind of **security**, and also **passwords are hashed** before stored in the Database. Note that there are some **validations constraints** while registering; if these validations are not achieved there are **error messages** would pop up **down of each invalid input** and the input's **borders** itself becomes **red** with a **wrong sign**, and all the **inputs are sanitized** before inserting them to the Database.
